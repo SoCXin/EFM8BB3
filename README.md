@@ -11,7 +11,7 @@
 
 ### [组成](mcuyun/)
 
-#### [RK3399](https://github.com/mcuyun/RK3368)
+#### [RK3399](https://github.com/mcuyun/RK3399)
 
 A72x2 + A53x4
 
